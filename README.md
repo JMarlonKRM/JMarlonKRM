@@ -7,9 +7,8 @@
 - Governança de TI 
 
 #### Concluindo estudo básico de Java, pretendo iniciar projetos relacionado a tanto quanto Front-end quanto Back-end. 
-#### Iniciando através da faculdade estudos em C# para web.
 
 # OCUPAÇÃO :
-##### fora faculdade....
+##### Como ja mencionado, estudando Sistema de informação. Atualmente desenvolvendo conhecimento em soluções de problemas, iniciando através da faculdade estudos em C# para web, Tratamento e transições numericas, como, Hexadecimal, Decimnal, Octal e binario, desenvolvendo conhecimento em Banco de Dados, inicialmente com MySQL, conhecendo e avaliando maneiras melhores de quando se aplicar inovação com base em desevolvimento de empresas atuais. 
 #### Atualmente sou prestador voluntario de serviço para SESDEC/RO. Atuando em Controle de veículos e trabalhando/estudando em um projeto relacionado a desenvolvimento mobile (flutter/dart) junto com equipe para unidade na qual estou lotado. 
 #### Estudando linguagens procurando sempre está atualizado e em alerta com as noticiar atuais no mundo da tecnologia, buscando um conhecimento vasto e concreto relacionado a funcionamento e operações para que possa ter uma base no desenvolvimento relacionado a Pentest, BUG BOUNTY, Bug Hunter... 
