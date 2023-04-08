@@ -17,5 +17,6 @@
     <img align="center" alt="VS" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
     
   <h3>Estudo:<h3/>
-    <img align="center" alt="Udemy" src="">
+    <img align="center" alt="Udemy" src="https://img.shields.io/badge/Udemy-5C2D91?style=for-the-badge&logo=Udemy&logoColor=white">
+    <img align="center" alt="Curso em video" src="https://img.shields.io/badge/Curso_Em_Video-0078D4?style=for-the-badge&logo=Curso%20em%20video&logoColor=white">
 </div><br/>
