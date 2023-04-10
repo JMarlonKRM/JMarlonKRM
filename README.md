@@ -3,7 +3,7 @@
 ### José Marlon ☕
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-marlon-vieria/)
 
-20 Anos, estudante full stack, iniciei estudo na área com 13 anos estudando HTML e CSS teorias, usabilidade. Atualmente cursando Sistem de informação, prestador serviço voluntário para SESDEC/RO.
+20 Anos, estudante full stack, iniciei estudo na área com 13 anos estudando HTML e CSS, teorias e usabilidade. Atualmente cursando Sistem de informação, prestador serviço voluntário para SESDEC/RO.
 #### Buscando conhecimento em várias liguagens e ferramentas, me aprofundando em Java atualmente mas estudando C# em conjunto com as matérias da faculdade.
 <div style="display: inline_block">
   <h3>Tecnologias: <h3/>
