@@ -21,5 +21,7 @@
     <img align="center" alt="Udemy" src="https://img.shields.io/badge/Udemy-5C2D91?style=for-the-badge&logo=Udemy&logoColor=white">
     <img align="center" alt="Curso em video" src="https://img.shields.io/badge/Curso_Em_Video-0078D4?style=for-the-badge&logo=Curso%20em%20video&logoColor=white">
     
+    <h3>-<h3/>
+      
      <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JMarlonKRM&layout=compact&theme=dark&langs_count=6&hide=0" style="border: 2px solid #8a2be2; border-radius: 6px;">
 </div><br/>
